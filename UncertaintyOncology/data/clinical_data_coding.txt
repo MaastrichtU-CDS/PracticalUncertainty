@@ -1,0 +1,72 @@
+                                                     ADDRESS | 
+                                                       S.NO. | 
+                                                        NAME | 
+                                             Hospital number | 
+                                          AGE @ presentation | 
+                                                         Sex | 1 - Male  | 2 - Female 
+                                          Myasthenia gravis  | 0-No | 1-Yes
+                           Myasthenia gravis at presentation | 0-No | 1-Yes
+                                               SVC syndrome  | 0-No | 1-Yes
+                                                       Fever | 0-No | 1-Yes
+                                                  Chest pain | 0-No | 1-Yes
+                                               voice change  | 0-No | 1-Yes
+                                                       Cough | 0-No | 1-Yes
+                                                   Hemptysis | 0-No | 1-Yes
+                                                  Recurrence | 0-No | 1-Yes
+                                                        AIHA | 0-No | 1-Yes
+                                                 Weight loss | 0-No | 1-Yes
+                                      Anemia evaluation-PRCA | 0-No | 1-Yes
+                                                     Dyspnea | 0-No | 1-Yes
+                                           Incidental pickup | 0-No | 1-Yes
+                                       DATE OF STUDY (CE-CT) | 
+                                     DATE OF DATA COLLECTION | 
+                                            Date of surgery  | 
+                                                     Surgery | 1 -Complete  | 2 -Incomplete excision
+                                                Surgery type | 1 - Sternotomy & excision | 2- VATS | 3- Others | 4- Robotic surgery 
+                            TOTAL DURATION OF FOLLOW UP_DAYS | 
+                                   FOLLOW UP DURATION_MONTHS | 
+                                    POST SX FOLLOW UP_MONTHS | 
+                                 POST SURGERY FOLLOW UP_DAYS | 
+                                      Date of last follow up | 
+                                         Mortality _ 0-death | 0 -Death | 1 - Alive
+                                              Date of death  | 
+                                           Lost to follow up | 0-No | 1- Yes
+                                                 Recurrence  | 0-No | 1- Yes
+                                          Site of recurrence | 1 - Post op site  | 2- Pleura  | 3-Lung | 4- Distant site
+                                Pre-op Received chemotherapy | 0-No | 1- Yes
+                               Received chemotherapy post op | 0-No | 1- Yes
+                                      Received radiotherapy  | 0-No | 1- Yes
+                                               TUMOR CONTOUR | 1-Smooth | 2-Lobulated | 3-Irregular 
+                                                TUMOR MARGIN | 1- capsulated | 2-unencapsulated
+                                                 TUMOR SHAPE | 1-Rounded | 2-Oval | 3-Irregular shaped
+                                               TUMOR SIZE_mm | 
+                                       MAXIMUM TUMOR SIZE_mm | 
+                                                  TUMOR SIDE | 1- Midline  | 2- Right of midline | 3-Left of midline | 4-Right and midline  | 5-Left and midline  | 6-Right, left and midline
+                                              TUMOR LOCATION | 1- Upper third | 2-mid third | 3-lower third  | 4-upper & mid third | 5-mid & lower third | 6- upper, mid & lower third
+   Enhancement characteristics  ( homogenity of enhancement) | 1-Homogeneous | 2- Heterogeneous
+                                Areas of Nodular enhancement | 0-No | 1- Yes
+                                          Areas of necrosis  | 0-No | 1- Yes
+                                              Cystic spaces  | 0-No | 1- Yes
+                          Areas of central contrast pooling  | 0-No | 1- Yes
+                         ATTENUATION & DEGREE OF ENHANCEMENT | 1-Hypoenhancing | 2-Isoenhancing | 3-Hyperenhancing
+                                          Enhancement ratio  | 
+                                   PRESENCE OF CALCIFICATION | 0-No | 1- Yes
+                                           SATELLITE LESIONS | 0-No | 1- Yes
+                                   PRESENCE OF FAT STRANDING | 0-No | 1- Yes
+                            fat plane obliteration with lung | 0-No | 1- Yes
+                             FAT PLANE OBLITERATION WITH CVS | 0-No | 1- Yes
+                                 MEDIASTINAL LYMPHADENOPATHY | 0-No | 1- Yes
+                          IRREGULAR INFILTRATION INTO PLEURA | 0-No | 1- Yes
+                         PULMONARY CHANGES ADJACENT TO TUMOR | 0-No | 1- Yes
+             IRREGULAR INFILTRATION INTO VASCULAR STRUCTURES | 0-No | 1- Yes
+                                            PLEURAL DEPOSITS | 0-No | 1- Yes
+                                            PLEURAL EFFUSION | 0-No | 1- Yes
+                                        PERICARDIAL EFFUSION | 0-No | 1- Yes
+                                                DISTANT METS | 0-No | 1- Yes
+                                       hypertrophied vessels | 0-No | 1- Yes
+                                               Recurrence .1 | 
+                                Histopath report - WHO grade | 
+                                           Chosen WHO grade  | 
+                                                pTNM staging | 
+                                                  MM staging | 
+                                           Surgical specimen | 0 -Small biopsy specimen | 1 -Surgical specimen
