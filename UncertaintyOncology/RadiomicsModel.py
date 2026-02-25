@@ -74,9 +74,12 @@ class RadiomicsModel:
         self.train_distance_df["Grades"] = self.X_train_val_clinical['WHO Grade Simplified'].values
 
         # Model
-        self.train_proba = self.thymoma_model(self.X_train_val_normal)  #
+        self.train_proba = self.thymoma_model(self.X_train_val_normal)#
         self.train_distance_0 = self.train_distance_df[self.train_distance_df.Outcome == 0]
         self.train_distance_1 = self.train_distance_df[self.train_distance_df.Outcome == 1]
+
+        self.train_distance_0.to_csv("distance_0.csv")
+        self.train_distance_1.to_csv("distance_1.csv")
 
     def determineUncertainties(self):
         train_uncertainties = []
